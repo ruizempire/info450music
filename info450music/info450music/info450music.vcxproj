@@ -142,6 +142,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <Text Include="..\..\..\..\..\..\VCU\Fall 2016\Info 450 C++java\text.txt" />
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
