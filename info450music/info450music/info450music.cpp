@@ -313,5 +313,24 @@ int main()
 				cout << "Number is not list.";
 			}
 
-		
+		}
+		if (ans == 'D' || ans == 'd') {
+			list.DeleteTheSong(songNum);
+		}
+
+		if (ans == 'a' || ans == 'a') {
+
+			list.Print();
+		}
+
+
+
+
+
+
+	} while ((ans != 'E') && (ans != 'e'));
+
+
+
+}
 
